@@ -1,0 +1,34 @@
+.navbar-nav.ml-auto {
+  margin-left: auto !important;
+}
+.navbar {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* Navbar.css */
+
+.nav-link {
+  margin-right: 15px; /* Adjust as needed */
+}
+
+/* Navbar.css */
+
+.navbar-button {
+  margin-right: 15px; /* Adjust as needed */
+}
+.btn-custom {
+  background-color: #007bff; /* Blue color - adjust as needed */
+  border-color: #007bff; /* Blue color - adjust as needed */
+}
+/* Navbar.css */
+
+/* Increase the size of the logo */
+.navbar-logo {
+  width: 40px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Add spacing between the logo and the navbar name */
+.navbar-brand-text {
+  margin-left: 10px; /* Adjust the margin as needed */
+}
